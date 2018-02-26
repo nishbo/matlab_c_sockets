@@ -45,7 +45,7 @@ This should create directories for object files and executables.
 
 #### Without Make
 
-The command sequence can be executed manually (UNTESTED):
+The command sequence can be executed manually:
 
 ```
 matlab_c_sockets>mkdir bin
