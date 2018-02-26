@@ -1,0 +1,39 @@
+# Visual Studio 2015 user specific files
+.vs/
+
+# Compiled
+bin
+*/bin
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+
+# Precompiled paths
+*.VC.db
+
+# Matlab temp files
+*.asv
